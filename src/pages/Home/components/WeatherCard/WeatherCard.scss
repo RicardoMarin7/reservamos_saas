@@ -1,0 +1,13 @@
+.WeatherCard {
+  padding: 0.5rem 1rem;
+  box-shadow: 0px 4px 3px 2px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgb(197, 197, 197);
+  border-radius: 1rem;
+  background: rgb(109, 64, 72);
+  background: linear-gradient(
+    180deg,
+    rgba(109, 64, 72, 1) 0%,
+    rgba(148, 88, 88, 1) 38%,
+    rgba(208, 118, 89, 1) 100%
+  );
+}

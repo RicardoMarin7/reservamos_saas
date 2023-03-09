@@ -33,13 +33,15 @@
 @media (max-width: 600px) {
   .MuiToolbar-root.Navbar__toolbar {
     display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
-    width: 100%;
   }
 
   .MuiTypography-root {
     display: block !important;
     margin-bottom: 1rem !important;
+  }
+
+  .MuiAutocomplete-root {
+    width: 100%;
   }
 }
